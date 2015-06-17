@@ -1,0 +1,80 @@
+[
+   {
+      "name": "brush teeth",
+      "start_date": "Jun 1 2015",
+      "completions": [
+         {
+            "date": "Jun 1 2015",
+            "complete": true
+         },
+         {
+            "date": "Jun 2 2015",
+            "complete": false
+         },
+         {
+            "date": "Jun 3 2015",
+            "complete": true
+         },
+         {
+            "date": "Jun 4 2015",
+            "complete": true
+         },
+         {
+            "date": "Jun 5 2015",
+            "complete": false
+         }
+      ]
+   },
+   {
+      "name": "read something",
+      "start_date": "Jun 3 2015",
+      "completions": [
+         {
+            "date": "Jun 1 2015",
+            "complete": true
+         },
+         {
+            "date": "Jun 2 2015",
+            "complete": false
+         },
+         {
+            "date": "Jun 3 2015",
+            "complete": true
+         },
+         {
+            "date": "Jun 4 2015",
+            "complete": true
+         },
+         {
+            "date": "Jun 5 2015",
+            "complete": false
+         }
+      ]
+   },
+   {
+      "name": "stretch",
+      "start_date": "Jun 10 2015",
+      "completions": [
+         {
+            "date": "Jun 1 2015",
+            "complete": true
+         },
+         {
+            "date": "Jun 2 2015",
+            "complete": false
+         },
+         {
+            "date": "Jun 3 2015",
+            "complete": true
+         },
+         {
+            "date": "Jun 4 2015",
+            "complete": true
+         },
+         {
+            "date": "Jun 5 2015",
+            "complete": false
+         }
+      ]
+   }
+]
