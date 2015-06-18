@@ -1,6 +1,6 @@
 
 function save_tasks(tasks) {
-   localStorage.setItem('tasks', JSON.stringify(data));
+   localStorage.setItem('tasks', JSON.stringify(tasks));
 }
 
 function load_tasks() {
@@ -8,6 +8,9 @@ function load_tasks() {
 }
 
 $(function() {
+   // $.getJSON('data.json', function(data) {
+   //    save_tasks(data);
+   // });
 
    var Dailies = React.createClass({displayName: 'Dailies',
       render: function() {

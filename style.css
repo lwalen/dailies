@@ -1,0 +1,30 @@
+#dailies {
+	width: 100%;
+}
+
+.completion {
+	background-color: gray;
+	height: 2.5em;
+	width: 2.5em;
+	margin-left: 5px;
+	display: inline-block;
+}
+
+.title {
+	display: inline-block;
+	width: 10%;
+	text-align: right;
+}
+
+.complete {
+	background-color: rgb(128, 255, 128);
+}
+
+.incomplete {
+	background-color: rgb(255, 128, 128);
+}
+
+/* for squares
+	height: 0;
+	width: 15%;
+	padding-top: 15%;*/

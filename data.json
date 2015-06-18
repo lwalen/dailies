@@ -35,11 +35,11 @@
          },
          {
             "date": "Jun 2 2015",
-            "complete": false
+            "complete": true
          },
          {
             "date": "Jun 3 2015",
-            "complete": true
+            "complete": false
          },
          {
             "date": "Jun 4 2015",
@@ -57,7 +57,7 @@
       "completions": [
          {
             "date": "Jun 1 2015",
-            "complete": true
+            "complete": false
          },
          {
             "date": "Jun 2 2015",
@@ -73,7 +73,7 @@
          },
          {
             "date": "Jun 5 2015",
-            "complete": false
+            "complete": true
          }
       ]
    }
